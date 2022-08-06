@@ -1,1 +1,3 @@
-# document-task-manager-docs
+# Document and Task Manager Software Design Specification
+
+Read and enjoy :)
